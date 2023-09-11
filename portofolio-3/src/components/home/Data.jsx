@@ -56,7 +56,8 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Web Developer</h3>
         <p className="home__description">
-        Enthusiast likes things related to technology, Experience as a Website Developer for 3 years, passionate, hardworker and also willing try and learn new skill about technologies.
+        Hello! My name is Muhammad Rifki Adam A. I am a website developer based in Yogyakarta Indonesia.
+    My interest and focus is website development. I am a person who is very enthusiastic about things related to technology, enjoys learning and exploring new things in the technology that I use and even technology that is beyond my reach. I have worked as a Website Developer for over 4 years and freelanced for the last 1 year.
         </p>
 
         <a href="#contact" className="button button--flex">
