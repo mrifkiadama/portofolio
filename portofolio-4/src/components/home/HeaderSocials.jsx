@@ -16,7 +16,7 @@ const HeaderSocials = () => {
         </a>
 
         <a href="https://dribble.com" className="home__social-link" target='_blank'>
-            <i className="fa-brands fa-dribble"></i>
+            <i className="fa-brands fa-dribbble"></i>
         </a>
 
         <a href="https://pinterest.com" className="home__social-link" target='_blank'>
