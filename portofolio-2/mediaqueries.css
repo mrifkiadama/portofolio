@@ -12,12 +12,12 @@
     #desktop-nav {
         display: none;
     }
+    #hamburger-nav {
+        display: flex;
+    }
     #experience,
     .experience-details-container {
         margin-top: 2rem;
-    }
-    #hamburger-nav {
-        display: flex;
     }
     #profile,
     .section-container {
@@ -60,9 +60,7 @@
         margin-bottom: 2rem;
     }
     .about-containers,
-    .contact-info-upper-container {
-        flex-direction: column;
-    }
+    .contact-info-upper-container,
     .btn-container {
         flex-wrap: wrap;
     }
@@ -78,10 +76,6 @@
     }
     .logo {
         font-size: 1.5rem;
-    }
-    .company-logo {
-        width: 30%;
-        height: 50%;
     }
     .nav-links {
         flex-direction: column;
